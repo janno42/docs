@@ -69,7 +69,7 @@ Bei der Anwesenheit von Mitgliedern des Fachschaftsrates während seiner Sitzung
 
 (1) Der Fachschaftsrat ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist, wobei mindestens zwei Mitglieder persönlich anwesend sein müssen.
 
-(2) Beschlüsse werden mit der einfachen Mehrheit aller gültigen von anwesenden Mitgliedern abgegebenen Stimmen gefasst. Gibt es mehr Enthaltungen als Ja- und Nein-Stimmen zusammengezählt, ist der Antrag mit einer Enthaltungsmehrheit abgelehnt. Bei Stimmengleichheit entscheidet der Sitzungsleitende über Annahme oder Ablehnung. 
+(2) Beschlüsse werden mit der einfachen Mehrheit aller gültigen von anwesenden Mitgliedern abgegebenen Stimmen gefasst. Gibt es mehr Enthaltungen als Ja- und Nein-Stimmen zusammengezählt, gilt der Beschluss als nicht gefasst. Bei Stimmengleichheit zwischen Ja- und Nein-Stimmen entscheidet der Sitzungsleitende über Annahme oder Ablehnung. 
 
 (3) Die Beschlüsse des Fachschaftsrates werden in Protokollen festgehalten.
 
