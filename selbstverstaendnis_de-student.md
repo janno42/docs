@@ -6,16 +6,17 @@ Dieses Dokument wurde am ??.??.2017 von der Studentischen Vertretung Digital Eng
 
 ## § 1 Zusammensetzung
 
-Die Studentische Vertretung Digital Engineering setzt sich aus den Mitgliedern der Fachschaftsräte der an der Digital Engineering Fakultät der Universität Potsdam angebotenen Studiengänge sowie allen studentischen Mitgliedern und deren Stellvertreterinnen und Stellvertretern der Gremien der Digital Engineering Fakultät zusammen. Dies umfasst insbesondere 
+Die Studentische Vertretung Digital Engineering setzt sich aus den Mitgliedern der Fachschaftsräte der an der Digital Engineering Fakultät der Universität Potsdam angebotenen Studiengänge sowie allen studentischen Mitgliedern und deren Stellvertreterinnen und Stellvertretern der Gremien der Digital Engineering Fakultät und den durch diese Gremien entsandten studentischen Mitgliedern zusammen. Dies umfasst insbesondere
 
 - aus der studentischen Selbstverwaltung:
   - die Mitglieder des Fachschaftsrates IT-Systems Engineering
-- sowie die studentischen Mitglieder der folgenden Gremien:
+- die studentischen Mitglieder der folgenden Gremien:
   - Fakultätsrat der Digital Engineering Fakultät
   - Gleichstellungsbeauftragte der Digital Engineering Fakultät
   - Prüfungsausschuss IT-Systems Engineering
   - Studienkommission Digital Engineering
   - Berufungskommissionen der Digital Engineering Fakultät
+- sowie die studentischen Vertreter für die Digital Engineering Fakultät in der Kommission für Lehre und Studium des Senats der Universität Potsdam.
 
 
 ## § 2 Ziele
@@ -39,10 +40,12 @@ Die Mitglieder der Studentischen Vertretung unterstützen sich gegenseitig bei i
 (3) Die Vorbereitung und Protokollierung der Treffen sowie die Bereitstellung von Räumlichkeiten und benötigten Materialien wird durch den Fachschaftsrat IT-Systems Engineering koordiniert.
 
 
-## § 5 Benennung von Mitgliedern für Fakultätsgremien
+## § 5 Benennung von studentischen Mitgliedern für Gremien
 
-(1) Für die Neu- oder Nachbesetzung von Studienkommissionen und Prüfungsausschüssen beauftragen die studentischen Mitglieder des Fakultätsrates die jeweils betroffenen Fachschaftsräte mit der Durchführung entsprechender Wahlen für die studentischen Mitglieder. Die Fachschaftsräte legen dafür eine Wahlordnung fest, die eine Berücksichtigung bestimmter Kriterien wie z.B. des Studiengangs oder des Fachsemesters der Kandidaturen erlaubt. Die Wahlergebnisse sollen den studentischen Mitgliedern des Fakultätsrates spätestens drei Wochen nach der Beauftragung zur Verfügung stehen.
+(1) Für die Neu- oder Nachbesetzung von Studienkommissionen, Prüfungsausschüssen, Berufungskommissionen und allen weiteren Gremien, bei denen die studentischen Mitglieder des Fakultätsrates das Vorschlags- oder Entsendungsrecht besitzen, sollen die stellvertretenden studentischen Mitglieder des Fakultätsrates, gegebenenfalls betroffene Fachschaftsräte, bisherige studentische Mitglieder des jeweiligen Gremiums und bei Bedarf andere Mitglieder aus der Studentischen Vertretung in die Entscheidung einbezogen werden.
 
-(2) Für die Besetzung von Berufungskommissionen sowie allen weiteren Ämtern und Gremien, für welche die studentischen Mitglieder des Fakultätsrates ein Vorschlagsrecht besitzen, sollen die betroffenen Fachschaftsräte die studentischen Mitglieder des Fakultätsrates auf deren Nachfrage hin innerhalb einer Woche über ihre Einschätzung informieren.
+(2) Vor der Benennung rufen die studentischen Mitglieder des Fakultätsrates per E-Mail alle Studierenden der Fakultät zur Kandidatur auf. Der Zeitraum für Kandidaturen soll mindestens eine Woche umfassen.
 
-(3) Beziehen sich die Aufgaben zu benennender Mitglieder auf noch nicht eingerichtete Studiengänge, übernehmen die bestehenden Fachschaftsräte der Fakultät die Aufgaben der vorangehenden Absätze gemeinschaftlich.
+(3) Über eingegangene Kandidaturen wird gemäß Absatz 1 entschieden. Nach erfolgter Benennung informieren die studentischen Mitglieder des Fakultätsrates alle interessierten Studierenden der Fakultät per E-Mail.
+
+(4) In Berufungskommissionen endet die Amtszeit der studentischen Mitglieder mit dem Abschluss der Berufungen. In allen anderen Gremien, für die die studentischen Mitglieder des Fakultätsrates das Vorschlags- oder Entsendungsrecht besitzen, soll nach dem Ablauf eines Jahres nach der Benennung einer Person eine neue Benennung stattfinden. Die erneute Kandidatur der gleichen Person ist möglich.
