@@ -1,22 +1,23 @@
 # Selbstverständnis der Studentischen Vertretung Digital Engineering
 
-Dieses Selbstverständnis wurde am ??.??.2019 von der Studentischen Vertretung Digital Engineering auf einem gemeinsamen Treffen verabschiedet.
+Dieses Selbstverständnis wurde am 03.07.2019 von der Studentischen Vertretung Digital Engineering auf einem gemeinsamen Treffen verabschiedet.
 
 
 
 ## § 1 Zusammensetzung
 
-Die Studentische Vertretung Digital Engineering (studentDE) an der Universität Potsdam setzt sich aus den Mitgliedern des Fachschaftsrates Digital Engineering sowie allen studentischen Mitgliedern und deren Stellvertreterinnen und Stellvertretern der Gremien der Digital Engineering Fakultät und den durch diese Gremien entsandten studentischen Mitgliedern zusammen. Dies umfasst insbesondere:
+(1) Die Studentische Vertretung Digital Engineering (studentDE) an der Universität Potsdam setzt sich aus den Mitgliedern des Fachschaftsrates Digital Engineering sowie allen studentischen Mitgliedern und deren Stellvertreterinnen und Stellvertretern der Gremien der Digital Engineering Fakultät und den durch diese Gremien entsandten studentischen Mitgliedern zusammen. Dies umfasst insbesondere:
 
 - Aus der studentischen Selbstverwaltung:
   - Die Mitglieder des Fachschaftsrates Digital Engineering
 - Die studentischen Mitglieder der Gremien der Fakultät:
   - Fakultätsrat der Digital Engineering Fakultät
-  - Gleichstellungsbeauftragte der Digital Engineering Fakultät
   - Prüfungsausschuss Digital Engineering
   - Studienkommission Digital Engineering
   - Berufungskommissionen der Digital Engineering Fakultät
 - Die studentischen Mitglieder für die Digital Engineering Fakultät in der Kommission für Lehre und Studium des Senats der Universität Potsdam.
+
+(2) Die studentischen Gleichstellungsbeauftragten der Digital Engineering Fakultät werden als Gäste in die Treffen und den regelmäßigen Austausch der Studentischen Vertretung einbezogen.
 
 
 ## § 2 Ziele
@@ -46,9 +47,9 @@ Die Mitglieder der Studentischen Vertretung unterstützen sich gegenseitig bei i
 
 (2) Die studentischen Mitglieder des Fakultätsrates stimmen die Besetzung des Prüfungsausschusses mit dem Fachschaftsrat ab.
 
-(3) Die studentischen Mitglieder des Fakultätsrates geben dem Fachschaftsrat die Möglichkeit, ein Mitglied für die Studienkommission aus der Mitte des Fachschaftsrates zu entsenden.
+(3) Die studentischen Mitglieder des Fakultätsrates geben dem Fachschaftsrat die Möglichkeit, ein Mitglied für die Studienkommission aus der Mitte des Fachschaftsrates vorzuschlagen.
 
-(4) Vor der Besetzung von studentischen Mitgliedern in Gremien rufen die studentischen Mitglieder des Fakultätsrates per E-Mail alle Studierenden der Fakultät, die für die Besetzung in Frage kommen, zur Kandidatur auf. Der Zeitraum für Kandidaturen soll mindestens eine Woche umfassen.
+(4) Vor der Besetzung von studentischen Mitgliedern der in Absatz (1) genannten Gremien rufen die studentischen Mitglieder des Fakultätsrates per E-Mail alle Studierenden der Fakultät, die für die Besetzung in Frage kommen, zur Kandidatur auf. Der Zeitraum für Kandidaturen soll mindestens eine Woche umfassen.
 
 (5) Insbesondere für die Besetzung der Studienkommission sollen mindestens einmal im Jahr Empfehlungswahlen in der Fachschaft durchgeführt werden, deren Ergebnis als Grundlage für die Besetzung verwendet wird.
 
