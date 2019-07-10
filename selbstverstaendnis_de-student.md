@@ -27,9 +27,13 @@ Dieses Selbstverständnis wurde am 03.07.2019 von der Studentischen Vertretung D
 (2) Gemeinsames Ziel ist die Interessensvertretung der Studierenden an der Digital Engineering Fakultät. Die Entscheidungen der gewählten und eingesetzten Mitglieder basieren auf den Bedürfnissen, Wünschen und Anforderungen der Studierenden der Fakultät.
 
 
-## § 3 Zusammenarbeit
+## § 3 Zusammenarbeit und Kommunikation
 
-Die Mitglieder der Studentischen Vertretung unterstützen sich gegenseitig bei ihren jeweiligen Aufgaben und informieren die anderen Mitglieder vor allem bei überschneidenden Zuständigkeiten.
+(1) Die Mitglieder der Studentischen Vertretung unterstützen sich gegenseitig bei ihren jeweiligen Aufgaben und informieren die anderen Mitglieder vor allem bei überschneidenden Zuständigkeiten.
+
+(2) Von den Treffen aller Gremien soll soweit möglich allen Studierenden der Digital Engineering Fakultät in geeigneter Form berichtet werden.
+
+(3) Auf der jährlichen studentischen Vollversammlung der Fachschaft Digital Engineering soll aus allen Gremien über die Aktivitäten des vergangenen Jahres berichtet werden. Der Fachschaftsrat koordiniert die Berichte.
 
 
 ## § 4 Vernetzungstreffen
