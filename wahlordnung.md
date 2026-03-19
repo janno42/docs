@@ -20,7 +20,7 @@ In den Fachschaftsrat werden gemäß Satzung der Fachschaft Digital Engineering 
 
 (2) Für Mitglieder, deren Amtszeit im Wintersemester beginnt, endet die Amtszeit mit der Konstituierung des neuen Fachschaftsrates im darauffolgenden Wintersemester und für Mitglieder, deren Amtszeit im Sommersemester beginnt, mit der Konstituierung des neuen Fachschaftsrates im darauffolgenden Sommersemester.
 
-(3) Pro Semester werden jeweils bis zu vier Mitglieder neu gewählt.
+(3) Pro Semester werden jeweils drei bis vier Mitglieder neu gewählt.
 
 (4) Die Wahl findet einmal pro Semester während der Vorlesungszeit statt, gewöhnlich in der vorletzten Woche der Vorlesungszeit.
 
@@ -45,7 +45,7 @@ Jedes Mitglied der Fachschaft besitzt das aktive und passive Wahlrecht.
 
 (2) Der Wahlausschuss wird einmal im Jahr durch den Fachschaftsrat aus der Mitte der Fachschaft gebildet. Dabei liegen mindestens sechs Wochen vor dem nächsten geplanten Wahltermin.
 
-(3) Dem Wahlausschuss obliegt die ordnungsgemäße Vorbereitung und Durchführung der Wahlen zum Fachschaftsrat innerhalb ihrer Amtszeit.
+(3) Dem Wahlausschuss obliegt die ordnungsgemäße Vorbereitung und Durchführung der Wahlen zum Fachschaftsrat innerhalb seiner Amtszeit.
 
 (4) Der Wahlausschuss umfasst mindestens drei Personen. Scheiden während der Amtszeit des Wahlausschusses Personen aus, besetzt der Fachschaftsrat diese Personen nach.
 
@@ -95,16 +95,16 @@ Jedes Mitglied der Fachschaft besitzt das aktive und passive Wahlrecht.
 
 (5) Der Wahlausschuss informiert nach Abschluss der Auszählung umgehend alle gewählten Personen und fragt sie nach Annahme der Wahl.
 
-(6) Die Annahme muss dem Wahlausschuss innerhalb von zwei Vorlesungstagen nach der Anfrage mitgeteilt werden. Ansonsten gilt die Annahme als verweigert.
+(6) Die Annahme muss dem Wahlausschuss innerhalb von vier Tagen nach der Anfrage mitgeteilt werden. Ansonsten gilt die Annahme als verweigert.
 
 (7) Für nicht angenommene Plätze rücken die nach Stimmenzahl folgenden Personen des Wahlergebnisses den Absätzen 2 bis 6 folgend nach. Nehmen so nicht insgesamt mindestens drei Personen die Wahl an, muss die Wahl wiederholt werden.
 
 
 ## § 11 Bekanntgabe des Wahlergebnisses
 
-(1) Der Wahlausschuss gibt die Ergebnisse der Wahl spätestens einen Vorlesungstag nach der Annahme aller Mitglieder per E-Mail an die Fachschaft bekannt.
+(1) Der Wahlausschuss gibt die Ergebnisse der Wahl spätestens zwei Tage nach der Annahme aller Mitglieder per E-Mail an die Fachschaft bekannt.
 
-(2) Der bestehende Fachschaftsrat lädt die neu gewählten Mitglieder zu einem spätestens zwei Wochen nach der Bekanntgabe der Wahlergebnisse liegenden Termin zur konstituierenden Sitzung ein.
+(2) Der bisherige Fachschaftsrat lädt die neu gewählten Mitglieder zu einem spätestens zwei Wochen nach der Bekanntgabe der Wahlergebnisse liegenden Termin zur konstituierenden Sitzung ein.
 
 
 ## § 12 Anfechtungsfrist
