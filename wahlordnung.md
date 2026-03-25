@@ -22,7 +22,7 @@ In den Fachschaftsrat werden gemäß Satzung der Fachschaft Digital Engineering 
 
 (3) Pro Semester werden jeweils drei bis vier Mitglieder neu gewählt.
 
-(4) Die Wahl findet einmal pro Semester während der Vorlesungszeit statt, gewöhnlich in der vorletzten Woche der Vorlesungszeit.
+(4) Die Wahl findet einmal pro Semester während der Vorlesungszeit statt, gewöhnlich in der zweit- oder drittletzten Woche der Vorlesungszeit.
 
 (5) Als Zeitraum der Wahl ist die Zeit zwischen Ausschreibung der Wahl und Ablauf der Anfechtungsfrist zu verstehen.
 

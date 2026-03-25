@@ -24,7 +24,7 @@ In accordance with the Digital Engineering student body's statutes, a total of s
 
 (3) Three to four new members are elected each semester.
 
-(4) The election takes place once per semester during the lecture period, usually in the penultimate week of the lecture period.
+(4) The election takes place once per semester during the lecture period, usually in the penultimate or antepenultimate week of the lecture period.
 
 (5) The election period is defined as the time between the announcement of the election and the expiration of the appeals period.
 
