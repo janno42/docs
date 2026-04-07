@@ -1,6 +1,6 @@
 # Übergangsbestimmungen
 
-Diese Übergangsbestimmungen sind am XX.XX.2026 durch Beschluss der Interimsgruppe des Fachschaftsrates in Kraft getreten.
+Diese Übergangsbestimmungen sind am 07.04.2026 durch Beschluss der Interimsgruppe des Fachschaftsrates in Kraft getreten.
 
 
 ## § 1 Geltungsbereich

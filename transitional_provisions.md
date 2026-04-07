@@ -1,6 +1,6 @@
 # Transitional Provisions
 
-These Transitional Provisions came into effect by resolution of the Interim Group of the Student Council on XXXX XX, 2026.
+These Transitional Provisions came into effect by resolution of the Interim Group of the Student Council on April 7, 2026.
 
 
 ## § 1 Scope

@@ -1,6 +1,6 @@
 # Wahlordnung der Fachschaft Digital Engineering an der Universität Potsdam
 
-Diese Wahlordnung ist am XX.XX.2026 durch Beschluss der Interimsgruppe des Fachschaftsrates in Kraft getreten.
+Diese Wahlordnung ist am 07.04.2026 durch Beschluss der Interimsgruppe des Fachschaftsrates in Kraft getreten.
 
 
 

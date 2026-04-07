@@ -2,7 +2,7 @@
 
 *This translation is for information purposes only and is not legally binding.*
 
-These Rules of Procedure came into effect by resolution of the Interim Group of the Student Council on XXXX XX, 2026.
+These Rules of Procedure came into effect by resolution of the Interim Group of the Student Council on April 7, 2026.
 
 
 ## § 1 Scope and Definitions

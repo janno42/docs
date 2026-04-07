@@ -1,6 +1,6 @@
 # Geschäftsordnung des Fachschaftsrates Digital Engineering
 
-Diese Geschäftsordnung wurde am XX.XX.2026 von der Interimsgruppe des Fachschaftsrates beschlossen.
+Diese Geschäftsordnung wurde am 07.04.2026 von der Interimsgruppe des Fachschaftsrates beschlossen.
 
 
 ## § 1 Geltungsbereich und Definitionen

@@ -2,7 +2,7 @@
 
 *This translation is for information purposes only and is not legally binding.*
 
-This electoral code came into effect by resolution of the Interim Group of the Student Council on XXXX XX, 2026.
+This electoral code came into effect by resolution of the Interim Group of the Student Council on April 7, 2026.
 
 
 
